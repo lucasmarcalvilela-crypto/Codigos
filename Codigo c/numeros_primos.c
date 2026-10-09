@@ -1,13 +1,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
-#include <limits.h>
 int main(){
     int a,b;
     bool ver;
     printf("digite o limite inferior e superior\n");
     scanf("%d",&b);
-    b=INT_MAX;
     system("clear||cls");
     if(b>2)printf("2\n");
     if(b>3)printf("3\n");
@@ -49,3 +47,4 @@ int main(){
     }
     return 0;
 }
+//vet[i]=vet2[aux++];
