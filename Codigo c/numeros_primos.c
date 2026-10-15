@@ -1,3 +1,4 @@
+//código feito em c fiito para achar números primos em um intervalo
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
@@ -47,4 +48,3 @@ int main(){
     }
     return 0;
 }
-//vet[i]=vet2[aux++];
