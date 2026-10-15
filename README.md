@@ -27,10 +27,10 @@ O código-fonte do projeto está armazenado na pasta `codigos c` deste repositó
 
 1. Clone ou baixe este repositório.
 2. Abra o terminal na pasta principal do repositório.
-3. Compile o programa, substituindo `SEU_ARQUIVO.c` pelo nome real do arquivo C:
+3. Compile o programa, substituindo `numeros_primos.c.c` pelo nome real do arquivo C:
 
 ```bash
-gcc "codigos c/SEU_ARQUIVO.c" -o numeros_primos
+gcc "codigos c/numeros_primos.c.c" -o numeros_primos
 ```
 
 4. Execute o programa.
