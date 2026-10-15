@@ -1,4 +1,4 @@
-//código feito em c fiito para achar números primos em um intervalo
+//código feito para achar números primos em um intervalo de 1 até o número digitado
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
